@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dark UI Website</title>
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar" id="navbar">
+    <a href="#" style="text-decoration: none;"><div class="logo" style = "font-style: italic; font-size: 2.5rem;">exp<sup style="font-size: 1.5rem;">20</sup></div></a>
+
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#" data-link="home">Home</a></li>
+      <li><a href="#tutorial">Tutorial</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1rkPeW0mKXOT-HoUoJRb6qHuJbn0QTFWT" target="_blank">Notes</a></li>
+      <li><a href="profile.html">Profile</a></li>
+    </ul>
+
+    <!-- Hamburger -->
+    <div class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+
+    <!-- Hero Section  -->
+    <section class="hero">
+
+    <!-- Slides -->
+    <div class="slides">
+        <img src="photos/hero-section-1.jpg" class="slide active">
+        <img src="photos/hero-section-2.jpg" class="slide">
+        <img src="photos/hero-section-3.jpg" class="slide">
+        <img src="photos/hero-section-4.jpg" class="slide">
+        <img src="photos/hero-section-5.jpg" class="slide">
+    </div>
+
+    <!-- Dark Overlay -->
+    <div class="overlay"></div>
+
+    <!-- Content -->
+    <div class="hero-content">
+        <h1 class="batch-name">Exponential 20</h1>
+        <p class="changing-text">Welcome to Our Batch</p>
+    </div>
+
+    <!-- Dots -->
+    <div class="dots"></div>
+
+    </section>
+
+    <!-- Tutorial Section -->
+    <section class="tutorial" id="tutorial">
+
+    <div class="tutorial-container">
+
+        <!-- TEXT -->
+        <div class="tutorial-text">
+        <h2 class="t-title">How the platform works?</h2>
+        <p class="t-para">
+            Watch this short tutorial to understand how everything works. It will help you navigate easily and use the platform effectively.
+        </p>
+        </div>
+
+        <!-- VIDEO -->
+        <div class="tutorial-video">
+        <iframe 
+            src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+            allowfullscreen>
+        </iframe>
+        </div>
+
+    </div>
+
+    </section>
+
+
+    <!-- Academic Section -->
+     
+    <section id="stats" class="stats">
+
+    <!-- TITLE -->
+    <div class="stats-header">
+        <h2>Academic Information</h2>
+        <p>Key academic overview of the batch</p>
+    </div>
+
+    <!-- CARDS -->
+    <div class="stats-container">
+
+        <div class="stat-card">
+        <div class="stat-number" data-target-value="147">0</div>
+        <div class="label">Total Courses</div>
+        </div>
+
+        <div class="stat-card">
+        <div class="stat-number" data-target-value="64">0</div>
+        <div class="label">Total Credits</div>
+        </div>
+
+        <div class="stat-card">
+        <div class="stat-number" data-target-value="4">0</div>
+        <div class="label">Total Years</div>
+        </div>
+
+    </div>
+
+    </section>
+
+
+    <!-- Footer Section -->
+<footer class="footer">
+
+  <div class="footer-container">
+
+    <!-- COLUMN 1 -->
+    <div class="footer-box">
+      <h3>Exponential 20</h3>
+      <p>
+        Exponential 20 represents the power of mathematics, innovation, and creativity. We are a group driven by ideas, exploring new possibilities and building meaningful solutions. Our vision is to grow beyond limits and inspire exponential thinking.
+      </p>
+    </div>
+
+    <!-- COLUMN 2 -->
+    <div class="footer-box">
+      <h3>Connect Us</h3>
+
+      <a href="https://t.me/+YezbtBg1tyliNGM1" target="_blank">Telegram</a>
+      <a href="https://www.facebook.com/share/g/1DeRykZuMQ/" target="_blank">Facebook Group</a>
+      <a href="https://www.facebook.com/share/17qB9Ed7td/" target="_blank">Facebook Page</a>
+
+    </div>
+
+    <!-- COLUMN 3 -->
+    <div class="footer-box">
+      <h3>Support</h3>
+
+      <p><a href="https://www.facebook.com/bi.be.k.671409" target="_blank">Bibek Kumar Das (Male CR)</a></p>
+      <p><a href="https://www.facebook.com/miftahunshraboni" target="_blank">Miftahun Shraboni (Female CR) </a></p>
+
+    </div>
+
+  </div>
+
+  <!-- BOTTOM BAR -->
+  <div class="footer-bottom">
+    <p>
+      © <span id="year"></span> Exponential 20. All rights reserved.
+      Developed by 
+      <a href="https://www.facebook.com/am.i.fothe/" target="_blank">Fothe Ahmed</a>
+    </p>
+  </div>
+
+</footer>
+
+
+  <script src="navbar.js"></script>
+  <script src="hero-section.js"></script>
+  <script src="tutorial.js"></script>
+ <script src="academic.js"></script>
+ <script src="footer.js"></script>
+</body>
+</html>
