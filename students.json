@@ -67,7 +67,7 @@
     "district": "Farmgate",
     "bloodGroup": "B+",
     "image": "../photos/students/7.webp",
-    "facebook": ""
+    "facebook": "https://www.facebook.com/share/1DqxDhWCZq/"
   },
   {
     "id": 8,
@@ -134,7 +134,7 @@
     "name": "Md. Raihan Himel",
     "bio": "",
     "homeTown": "Comilla",
-    "district": "Dhaka",
+    "district": "Uttara",
     "bloodGroup": "AB+",
     "image": "../photos/students/14.webp",
     "facebook": "https://www.facebook.com/raihan.himel.2024"
@@ -212,8 +212,8 @@
   {
     "id": 22,
     "name": "Fothe Ahmed",
-    "bio": "",
-    "homeTown": "Dhaka",
+    "bio": "focus on career not girls, because gf is temporary, success is permanent",
+    "homeTown": "Chandpur",
     "district": "Bashabo",
     "bloodGroup": "AB+",
     "image": "../photos/students/22.webp",
