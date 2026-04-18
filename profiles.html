@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Profiles</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<link rel="stylesheet" href="profiles.css">
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar" id="navbar">
+    <a href="index.html#home" style="text-decoration: none;"><div class="logo" style = "font-style: italic; font-size: 2.5rem;">exp<sup style="font-size: 1.5rem;">20</sup></div></a>
+
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html#home">Home</a></li>
+      <li><a href="index.html#tutorial">Campus</a></li>
+      <li><a href="https://drive.google.com/drive/folders/1rkPeW0mKXOT-HoUoJRb6qHuJbn0QTFWT" target="_blank">Notes</a></li>
+      <li><a href="profiles.html">Profiles</a></li>
+    </ul>
+
+    <!-- Hamburger -->
+    <div class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </nav>
+
+
+  <section class="student-section">
+
+    <!-- Search -->
+    <input 
+      type="text" 
+      id="searchInput" 
+      placeholder="Search by name..."
+    />
+
+    <!-- Cards -->
+    <div id="studentContainer" class="student-container"></div>
+
+    <!-- Pagination -->
+    <div class="pagination">
+      <button id="prevBtn">Previous</button>
+      <div id="pageNumbers"></div>
+      <button id="nextBtn">Next</button>
+    </div>
+
+  </section>
+
+
+    <!-- Footer Section -->
+    <footer class="footer">
+
+    <div class="footer-container">
+
+        <!-- COLUMN 1 -->
+        <div class="footer-box">
+        <h3>Exponential 20</h3>
+        <p>
+            Exponential 20 represents the power of mathematics, innovation, and creativity. We are a group driven by ideas, exploring new possibilities and building meaningful solutions. Our vision is to grow beyond limits and inspire exponential thinking.
+        </p>
+        </div>
+
+        <!-- COLUMN 2 -->
+        <div class="footer-box">
+        <h3>Connect Us</h3>
+
+        <a href="https://t.me/+YezbtBg1tyliNGM1" target="_blank">Telegram</a>
+        <a href="https://www.facebook.com/share/g/1DeRykZuMQ/" target="_blank">Facebook Group</a>
+        <a href="https://www.facebook.com/share/17qB9Ed7td/" target="_blank">Facebook Page</a>
+
+        </div>
+
+        <!-- COLUMN 3 -->
+        <div class="footer-box">
+        <h3>Support</h3>
+
+        <p><a href="https://www.facebook.com/bi.be.k.671409" target="_blank">Bibek Kumar Das (Male CR)</a></p>
+        <p><a href="https://www.facebook.com/miftahunshraboni" target="_blank">Miftahun Shraboni (Female CR) </a></p>
+
+        </div>
+
+    </div>
+
+    <!-- BOTTOM BAR -->
+    <div class="footer-bottom">
+        <p>
+        © <span id="year"></span> <span style="font-weight: bolder;">Exponential 20</span>. All rights reserved.
+        Developed by 
+        <a href="https://www.facebook.com/am.i.fothe/" target="_blank">Fothe Ahmed</a>
+        </p>
+    </div>
+
+    </footer>
+
+
+
+<div id="studentLoaderRoot">
+
+  <div class="studentLoaderBox">
+
+    <div class="studentLoaderDots">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <h2 class="studentLoaderText"> Just a Moment… </h2>
+
+  </div>
+
+</div>
+
+
+
+<script src="profiles.js"></script>
+<script src="navbar.js"></script>
+<script src="footer.js"></script>
+<script src="loader.js"></script>
+
+</body>
+</html>

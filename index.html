@@ -16,13 +16,13 @@
 
   <!-- Navbar -->
   <nav class="navbar" id="navbar">
-    <a href="#" style="text-decoration: none;"><div class="logo" style = "font-style: italic; font-size: 2.5rem;">exp<sup style="font-size: 1.5rem;">20</sup></div></a>
+    <a href="index.html#home" style="text-decoration: none;"><div class="logo" style = "font-style: italic; font-size: 2.5rem;">exp<sup style="font-size: 1.5rem;">20</sup></div></a>
 
     <ul class="nav-links" id="navLinks">
-      <li><a href="#" data-link="home">Home</a></li>
+      <li><a href="index.html#home">Home</a></li>
       <li><a href="#tutorial">Campus</a></li>
       <li><a href="https://drive.google.com/drive/folders/1rkPeW0mKXOT-HoUoJRb6qHuJbn0QTFWT" target="_blank">Notes</a></li>
-      <li><a href="profile.html">Profile</a></li>
+      <li><a href="profiles.html">Profiles</a></li>
     </ul>
 
     <!-- Hamburger -->
@@ -35,7 +35,7 @@
 
 
     <!-- Hero Section  -->
-    <section class="hero">
+    <section class="hero" id="home">
 
     <!-- Slides -->
     <div class="slides">
@@ -153,7 +153,7 @@
   <!-- BOTTOM BAR -->
   <div class="footer-bottom">
     <p>
-      © <span id="year"></span> Exponential 20. All rights reserved.
+      © <span id="year"></span> <span style="font-weight: bolder;">Exponential 20</span>. All rights reserved.
       Developed by 
       <a href="https://www.facebook.com/am.i.fothe/" target="_blank">Fothe Ahmed</a>
     </p>
@@ -162,10 +162,30 @@
 </footer>
 
 
+  <div id="studentLoaderRoot">
+
+    <div class="studentLoaderBox">
+
+      <div class="studentLoaderDots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+
+      <h2 class="studentLoaderText">Just a Moment…</h2>
+
+    </div>
+
+  </div>
+
+
+
+
   <script src="navbar.js"></script>
   <script src="hero-section.js"></script>
   <script src="tutorial.js"></script>
  <script src="academic.js"></script>
  <script src="footer.js"></script>
+ <script src="loader.js"></script>
 </body>
 </html>

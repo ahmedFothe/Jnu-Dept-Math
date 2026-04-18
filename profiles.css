@@ -1,0 +1,126 @@
+body {
+  background: #0f0f0f;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+/* Search */
+#searchInput {
+  width: 90%;
+  max-width: 400px;
+  margin: 20px auto;
+  display: block;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+/* Grid */
+.student-container {
+  display: grid;
+  gap: 20px;
+  padding: 20px;
+  transition: all 0.3s ease;
+}
+
+/* Desktop → 3 column */
+@media (min-width: 1024px) {
+  .student-container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Tablet → 2 column */
+@media (max-width: 1023px) {
+  .student-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Mobile → 1 column */
+@media (max-width: 600px) {
+  .student-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Card */
+.card {
+  background: #1a1a1a;
+  border-radius: 16px;
+  padding: 20px;
+  text-align: center;
+  transition: 0.3s;
+  box-shadow: 0 0 10px rgba(255, 140, 0, 0.1);
+  -webkit-tap-highlight-color: transparent;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(255, 140, 0, 0.4);
+}
+
+/* Mobile touch effect */
+.card:active {
+  transform: scale(0.97);
+}
+
+.card img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Button */
+.add-btn {
+  background: #1877f2;
+  border: none;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.add-btn:hover {
+  background: #145edb;
+  transform: scale(1.05);
+}
+
+.add-btn:active {
+  transform: scale(0.95);
+  background: #0d5bd3;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 20px;
+}
+
+.pagination button {
+  background: #222;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.pagination .active {
+  background: orange;
+  font-weight: bold;
+  box-shadow: 0 0 10px orange;
+}
+.notFound{
+  margin: 1rem auto;
+  width: 55vw;
+  text-align: right;
+  color: orange;
+  font-size: 2rem;
+  
+}

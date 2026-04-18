@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "../photos/students/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "../photos/students/2.png"
+  },
+  
+  {
+    "id": 3,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "../photos/students/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "../photos/students/4.png"
+  },
+  
+  {
+    "id": 5,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "../photos/students/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/6.png"
+  },
+  
+  {
+    "id": 7,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/8.png"
+  },
+  
+  {
+    "id": 9,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/10.png"
+  },
+  
+  {
+    "id": 11,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/11.png"
+  },
+  {
+    "id": 12,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/12.png"
+  },
+  
+  {
+    "id": 13,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/13.png"
+  },
+  {
+    "id": 14,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/14.png"
+  },
+  
+  {
+    "id": 15,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/15.png"
+  },
+  {
+    "id": 16,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/16.png"
+  },
+  
+  {
+    "id": 17,
+    "name": "Rakib Hasan",
+    "bio": "CSE Student | Passionate about Web Dev",
+    "homeTown": "Khulna",
+    "district": "Khulna",
+    "bloodGroup": "A+",
+    "image": "photos/students/17.png"
+  },
+  {
+    "id": 18,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/18.png",
+    "facebook": "https://facebook.com/username"
+  },
+  {
+    "id": 19,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/19.png"
+  },
+  {
+    "id": 20,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/20.png"
+  },
+  {
+    "id": 21,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/21.png"
+  },
+  {
+    "id": 22,
+    "name": "Nusrat Jahan",
+    "bio": "UI/UX Enthusiast",
+    "homeTown": "Dhaka",
+    "district": "Dhaka",
+    "bloodGroup": "B+",
+    "image": "photos/students/22.png"
+  }
+]

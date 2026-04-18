@@ -422,13 +422,80 @@ body {
   color: white;
 }
 
-/* MOBILE */
-@media (max-width: 768px) {
-  .footer-container {
-    grid-template-columns: 1fr;
-    text-align: left;
+/* Loader Style */
+/* FULL SCREEN LOADER */
+#studentLoaderRoot {
+  position: fixed;
+  inset: 0;
+  background: #0f0f0f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 99999;
+  transition: opacity 0.2s ease;
+}
+
+/* BOX */
+.studentLoaderBox {
+  text-align: center;
+}
+
+/* DOTS */
+.studentLoaderDots {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 15px;
+}
+
+.studentLoaderDots span {
+  width: 10px;
+  height: 10px;
+  background: orange;
+  border-radius: 50%;
+  animation: studentLoaderBounce 0.6s infinite alternate;
+  box-shadow: 0 0 10px orange;
+}
+
+.studentLoaderDots span:nth-child(2) {
+  animation-delay: 0.1s;
+}
+
+.studentLoaderDots span:nth-child(3) {
+  animation-delay: 0.2s;
+}
+
+/* ANIMATION (unique name) */
+@keyframes studentLoaderBounce {
+  from {
+    transform: translateY(0);
+    opacity: 0.4;
+  }
+  to {
+    transform: translateY(-10px);
+    opacity: 1;
   }
 }
+
+/* TEXT */
+.studentLoaderText {
+  color: orange;
+  font-size: 1.3rem;
+  font-style: italic;
+  letter-spacing: 1px;
+  animation: studentLoaderFade 0.6s infinite alternate;
+}
+
+/* separate animation */
+@keyframes studentLoaderFade {
+  from { opacity: 0.5; }
+  to { opacity: 1; }
+}
+
+
+
+
+
 
 
 
@@ -532,5 +599,12 @@ body {
 
   .stat-number {
     font-size: 1.8rem;
+  }
+}
+/* Footer Responsive */
+@media (max-width: 768px) {
+  .footer-container {
+    grid-template-columns: 1fr;
+    text-align: left;
   }
 }
