@@ -1,209 +1,592 @@
 [
   {
     "id": 1,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "../photos/students/1.png"
+    "name": "Nabila Rahman",
+    "bio": "",
+    "homeTown": "Dinajpur",
+    "district": "Puran Dhaka",
+    "bloodGroup": "B+",
+    "image": "../photos/students/1.webp",
+    "facebook": "https://www.facebook.com/share/14YobjmZuYx/"
   },
   {
     "id": 2,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "../photos/students/2.png"
+    "name": "Mohammad Samin Reza Siyam",
+    "bio": "😎😎",
+    "homeTown": "Feni",
+    "district": "South bonosri",
+    "bloodGroup": "AB+",
+    "image": "../photos/students/2.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=61576951402864"
   },
-  
   {
     "id": 3,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
+    "name": "Md.Razib Islam",
+    "bio": "",
+    "homeTown": "Sirajganj",
+    "district": "Narinda",
     "bloodGroup": "A+",
-    "image": "../photos/students/3.png"
+    "image": "../photos/students/3.webp",
+    "facebook": "https://www.facebook.com/rerajib.hasan"
   },
   {
     "id": 4,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "../photos/students/4.png"
+    "name": "Moynul Islam Riad",
+    "bio": "Riad",
+    "homeTown": "Jashore",
+    "district": "Doyagong",
+    "bloodGroup": "A+",
+    "image": "../photos/students/4.webp",
+    "facebook": "https://www.facebook.com/moynul.islam.riad"
   },
-  
   {
     "id": 5,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
+    "name": "Mst.Farzana Rahman Trisha",
+    "bio": "Take care of yourself",
+    "homeTown": "Jashore",
+    "district": "Laxmibazar",
     "bloodGroup": "A+",
-    "image": "../photos/students/5.png"
+    "image": "../photos/students/5.webp",
+    "facebook": "https://www.facebook.com/share/14aT49cpiKq/"
   },
   {
     "id": 6,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/6.png"
+    "name": "Bibek Das",
+    "bio": "Patience and hard work are my passion because they are the root causes of success. Always stay confident and remain focused on your goals...!💖",
+    "homeTown": "Faridpur",
+    "district": "Mirpur",
+    "bloodGroup": "A+",
+    "image": "../photos/students/6.webp",
+    "facebook": "https://www.facebook.com/share/1J8SJq6kD3/"
   },
-  
   {
     "id": 7,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "photos/students/7.png"
+    "name": "M Zahirul islam Zihad",
+    "bio": "Do or die",
+    "homeTown": "Gopalganj",
+    "district": "Farmgate",
+    "bloodGroup": "B+",
+    "image": "../photos/students/7.webp",
+    "facebook": ""
   },
   {
     "id": 8,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/8.png"
+    "name": "Shahariya provati",
+    "bio": "",
+    "homeTown": "Munshiganj",
+    "district": "Maniknagar",
+    "bloodGroup": "AB+",
+    "image": "../photos/students/8.webp",
+    "facebook": "https://www.facebook.com/shin.thia.764401"
   },
-  
   {
     "id": 9,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "photos/students/9.png"
+    "name": "Syed Mashiat Mahbub Safwan",
+    "bio": "Silent battles don’t mean you’re losing. Keep going. ",
+    "homeTown": "Dhaka",
+    "district": "Lalbagh",
+    "bloodGroup": "O-",
+    "image": "../photos/students/9.webp",
+    "facebook": "https://www.facebook.com/syedmashiat.mahbubsafwan.1"
   },
   {
     "id": 10,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
+    "name": "Tahsin Siddik",
+    "bio": "",
+    "homeTown": "Mymensingh",
     "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/10.png"
+    "bloodGroup": "A+",
+    "image": "../photos/students/10.webp",
+    "facebook": "https://www.facebook.com/tahsin.siddik.246618"
   },
-  
   {
     "id": 11,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "photos/students/11.png"
+    "name": "Md.Tanvirul Islam",
+    "bio": "",
+    "homeTown": "Cumilla",
+    "district": "Keraniganj.",
+    "bloodGroup": "O+",
+    "image": "../photos/students/11.webp",
+    "facebook": "https://www.facebook.com/share/1CHgXXCW1t/"
   },
   {
     "id": 12,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
+    "name": "Khaled Saifulla",
+    "bio": "",
     "homeTown": "Dhaka",
     "district": "Dhaka",
     "bloodGroup": "B+",
-    "image": "photos/students/12.png"
+    "image": "../photos/students/12.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=61571326517279"
   },
-  
   {
     "id": 13,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "photos/students/13.png"
+    "name": "Sudip kumar das",
+    "bio": "",
+    "homeTown": "Satkhira",
+    "district": "Sutrapur",
+    "bloodGroup": "O+",
+    "image": "../photos/students/13.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=61578184828157"
   },
   {
     "id": 14,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
+    "name": "Md. Raihan Himel",
+    "bio": "",
+    "homeTown": "Comilla",
     "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/14.png"
+    "bloodGroup": "AB+",
+    "image": "../photos/students/14.webp",
+    "facebook": "https://www.facebook.com/raihan.himel.2024"
   },
-  
   {
     "id": 15,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
+    "name": "Maria Azad",
+    "bio": "",
+    "homeTown": "Barishal",
+    "district": "Dhaka",
     "bloodGroup": "A+",
-    "image": "photos/students/15.png"
+    "image": "../photos/students/15.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=100087125251363"
   },
   {
     "id": 16,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/16.png"
+    "name": "Aronno hasan",
+    "bio": "",
+    "homeTown": "Munshiganj",
+    "district": "Gandaria",
+    "bloodGroup": "A+",
+    "image": "../photos/students/16.webp",
+    "facebook": "https://www.facebook.com/share/1BNasuhx8L/"
   },
-  
   {
     "id": 17,
-    "name": "Rakib Hasan",
-    "bio": "CSE Student | Passionate about Web Dev",
-    "homeTown": "Khulna",
-    "district": "Khulna",
-    "bloodGroup": "A+",
-    "image": "photos/students/17.png"
+    "name": "Swapna pal",
+    "bio": "",
+    "homeTown": "Patuakhali",
+    "district": "Swamibag",
+    "bloodGroup": "O+",
+    "image": "../photos/students/17.webp",
+    "facebook": "https://www.facebook.com/share/1be7WrGRnt/"
   },
   {
     "id": 18,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/18.png",
-    "facebook": "https://facebook.com/username"
+    "name": "MD Mokaddes Ali ( Miraz )",
+    "bio": "Update Bachelor",
+    "homeTown": "Rajshahi",
+    "district": "Jattrabari",
+    "bloodGroup": "O+",
+    "image": "../photos/students/18.webp",
+    "facebook": "https://web.facebook.com/mokaddes.ali.nlh"
   },
   {
     "id": 19,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
+    "name": "Antor Kundu",
+    "bio": "Value your time—once it’s gone, it never comes back.",
+    "homeTown": "Natore",
+    "district": "Bangshal",
     "bloodGroup": "B+",
-    "image": "photos/students/19.png"
+    "image": "../photos/students/19.webp",
+    "facebook": "https://www.facebook.com/share/16vmP9fuLP/?mibextid=qi2Omg"
   },
   {
     "id": 20,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
-    "bloodGroup": "B+",
-    "image": "photos/students/20.png"
+    "name": "Md. Khalid Hasan",
+    "bio": "Allahu Akbar",
+    "homeTown": "Bogura",
+    "district": "Lalbag",
+    "bloodGroup": "A+",
+    "image": "../photos/students/20.webp",
+    "facebook": "https://www.facebook.com/share/1DUt3vWz64/"
   },
   {
     "id": 21,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
-    "homeTown": "Dhaka",
-    "district": "Dhaka",
+    "name": "Urmi Akter",
+    "bio": "",
+    "homeTown": "Madaripur",
+    "district": "Laxmibazar",
     "bloodGroup": "B+",
-    "image": "photos/students/21.png"
+    "image": "../photos/students/21.webp",
+    "facebook": "https://www.facebook.com/share/18VKLobiew/"
   },
   {
     "id": 22,
-    "name": "Nusrat Jahan",
-    "bio": "UI/UX Enthusiast",
+    "name": "Fothe Ahmed",
+    "bio": "",
     "homeTown": "Dhaka",
+    "district": "Bashabo",
+    "bloodGroup": "AB+",
+    "image": "../photos/students/22.webp",
+    "facebook": "https://www.facebook.com/am.i.fothe"
+  },
+  {
+    "id": 23,
+    "name": "Samia Baten Saba",
+    "bio": "",
+    "homeTown": "Manikganj",
+    "district": "Savar",
+    "bloodGroup": "O+",
+    "image": "../photos/students/23.webp",
+    "facebook": "https://www.facebook.com/share/1GThJLPASr/"
+  },
+  {
+    "id": 24,
+    "name": "MD YASIN HOSSAIN",
+    "bio": "Welcome to our depertment.",
+    "homeTown": "Dinajpur",
+    "district": "Gandaria",
+    "bloodGroup": "A+",
+    "image": "../photos/students/24.webp",
+    "facebook": "https://www.facebook.com/share/18GjHqkevC/"
+  },
+  {
+    "id": 25,
+    "name": "Meraz Ferdous",
+    "bio": "lived and remembered forever!",
+    "homeTown": "Kurigram",
+    "district": "Keraniganj",
+    "bloodGroup": "B+",
+    "image": "../photos/students/25.webp",
+    "facebook": "https://www.facebook.com/share/1ChV3NpLqo/"
+  },
+  {
+    "id": 26,
+    "name": "Athiqur Rahman Shayel",
+    "bio": "Small efforts create big success. We made it here through consistency. Keep going, no matter what.",
+    "homeTown": "Kishoreganj",
+    "district": "Notun Bazar",
+    "bloodGroup": "B+",
+    "image": "../photos/students/26.webp",
+    "facebook": "https://www.facebook.com/share/1Cms7DseAu/"
+  },
+  {
+    "id": 27,
+    "name": "Md. Safeul Muznebin Basunia",
+    "bio": "Strive with discipline and integrity",
+    "homeTown": "Lalmonirhat",
+    "district": "Kafrul",
+    "bloodGroup": "B+",
+    "image": "../photos/students/27.webp",
+    "facebook": "https://www.facebook.com/safeulmuznebinbasunia"
+  },
+  {
+    "id": 28,
+    "name": "Shuvajit Biswas",
+    "bio": "Life is all about taking risk .",
+    "homeTown": "Magura",
+    "district": "Doyaganj",
+    "bloodGroup": "B+",
+    "image": "../photos/students/28.webp",
+    "facebook": "https://www.facebook.com/shuvajit.biswas.69"
+  },
+  {
+    "id": 29,
+    "name": "Srabon Mallick",
+    "bio": "New chapter, same goals.",
+    "homeTown": "Chittagong",
+    "district": "Bongsal",
+    "bloodGroup": "O+",
+    "image": "../photos/students/29.webp",
+    "facebook": "https://www.facebook.com/share/183FBFVS8f/"
+  },
+  {
+    "id": 30,
+    "name": "Tahmina Tasmin",
+    "bio": "",
+    "homeTown": "Noakhali",
+    "district": "Konapara",
+    "bloodGroup": "O+",
+    "image": "../photos/students/30.webp",
+    "facebook": "https://www.facebook.com/share/1HfjmVaNiV/"
+  },
+  {
+    "id": 31,
+    "name": "Md.Leyon Islam",
+    "bio": "",
+    "homeTown": "Nilphamari",
+    "district": "Koltabajar",
+    "bloodGroup": "AB+",
+    "image": "../photos/students/31.webp",
+    "facebook": "https://www.facebook.com/share/1BAxZ7yF6s/"
+  },
+  {
+    "id": 32,
+    "name": "Diya Mazi",
+    "bio": "Hey..I'm Diyaaa🌺",
+    "homeTown": "Munshiganj",
+    "district": "Sreenagar",
+    "bloodGroup": "B+",
+    "image": "../photos/students/32.webp",
+    "facebook": "https://www.facebook.com/share/1CWmRhtbBu/"
+  },
+  {
+    "id": 33,
+    "name": "Md. Zubayer Mahmood",
+    "bio": "Try Hard",
+    "homeTown": "DINAJPUR",
+    "district": "Savar",
+    "bloodGroup": "B+",
+    "image": "../photos/students/33.webp",
+    "facebook": "https://www.facebook.com/share/1CvTkQqHGp/"
+  },
+  {
+    "id": 34,
+    "name": "Samarika Mitra",
+    "bio": "",
+    "homeTown": "Lakshmipur",
+    "district": "Mohammadpur",
+    "bloodGroup": "B+",
+    "image": "../photos/students/34.webp",
+    "facebook": "https://www.facebook.com/samarika.mitra"
+  },
+  {
+    "id": 35,
+    "name": "Tasmina Khatun Ria",
+    "bio": "Never be hopeless and always try to be unique",
+    "homeTown": "Jashore",
+    "district": "Laxmibazar",
+    "bloodGroup": "O+",
+    "image": "../photos/students/35.webp",
+    "facebook": "https://www.facebook.com/share/1Bh2V17xQb/"
+  },
+  {
+    "id": 36,
+    "name": "Shishir Chandra Roy",
+    "bio": "Stay on the path of honesty, and fearlessly follow ",
+    "homeTown": "Kurigram",
+    "district": "Banglabazar",
+    "bloodGroup": "AB+",
+    "image": "../photos/students/36.webp",
+    "facebook": "https://www.facebook.com/share/18YMLukntq/"
+  },
+  {
+    "id": 37,
+    "name": "ORNOB CHANDRA SARKER",
+    "bio": "স্বপ্ন যত বড় হবে, চেষ্টা তত গভীর হতে হবে।",
+    "homeTown": "Cumilla",
+    "district": "Bangla bazar",
+    "bloodGroup": "O+",
+    "image": "../photos/students/37.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=61574098199382"
+  },
+  {
+    "id": 38,
+    "name": "Sumaiya",
+    "bio": "",
+    "homeTown": "Narayanganj",
     "district": "Dhaka",
     "bloodGroup": "B+",
-    "image": "photos/students/22.png"
+    "image": "../photos/students/38.webp",
+    "facebook": "https://www.facebook.com/sumaiya.akter.337223"
+  },
+  {
+    "id": 39,
+    "name": "Durnhto Bonik",
+    "bio": "Consistency is better than motivation",
+    "homeTown": "Bhola",
+    "district": "Sutrapur",
+    "bloodGroup": "A+",
+    "image": "../photos/students/39.webp",
+    "facebook": "https://www.facebook.com/share/174JnE9KWb/"
+  },
+  {
+    "id": 40,
+    "name": "Miftahun Jannat Shraboni",
+    "bio": "Life is a beautiful mix of ups and downs, and how we live it defines its meaning.",
+    "homeTown": "Lakshmipur",
+    "district": "Bholakot",
+    "bloodGroup": "B+",
+    "image": "../photos/students/40.webp",
+    "facebook": "https://www.facebook.com/share/1N3hHyHykN/"
+  },
+  {
+    "id": 41,
+    "name": "Avishek Paul",
+    "bio": "",
+    "homeTown": "Magura",
+    "district": "Katherpul",
+    "bloodGroup": "O+",
+    "image": "../photos/students/41.webp",
+    "facebook": "https://www.facebook.com/share/1CUADKTEsz/"
+  },
+  {
+    "id": 42,
+    "name": "Md Mahfugur Rahman Mitul",
+    "bio": "Allah is the Almighty",
+    "homeTown": "Dhaka",
+    "district": "Badda",
+    "bloodGroup": "B+",
+    "image": "../photos/students/42.webp",
+    "facebook": "https://www.facebook.com/share/1CNb3AqhrA/"
+  },
+  {
+    "id": 43,
+    "name": "Afra Shiyara",
+    "bio": "",
+    "homeTown": "Dhaka",
+    "district": "Dhaha",
+    "bloodGroup": "O+",
+    "image": "../photos/students/43.webp",
+    "facebook": "https://www.facebook.com/share/1KRkZyEWLR/"
+  },
+  {
+    "id": 44,
+    "name": "Sumaya Akter Rubi",
+    "bio": "",
+    "homeTown": "Kurigram",
+    "district": "Mirpur 1",
+    "bloodGroup": "A+",
+    "image": "../photos/students/44.webp",
+    "facebook": "https://www.facebook.com/share/18HUZbz3WM/"
+  },
+  {
+    "id": 45,
+    "name": "Mohammed Nur E Alam Foysal",
+    "bio": "Believe in Yourself and keep grinding - Success will come",
+    "homeTown": "Chandpur",
+    "district": "Mirpur",
+    "bloodGroup": "O+",
+    "image": "../photos/students/45.webp",
+    "facebook": "https://www.facebook.com/nur.e.alam.foysal.2024"
+  },
+  {
+    "id": 46,
+    "name": "Md.Torikul Islam Tanvir",
+    "bio": "",
+    "homeTown": "Narsingdi",
+    "district": "Nilkhet",
+    "bloodGroup": "O+",
+    "image": "../photos/students/46.webp",
+    "facebook": "https://www.facebook.com/md.torikul.islam.911009"
+  },
+ {
+    "id": 47,
+    "name": "Mohammad Sami",
+    "bio": "",
+    "homeTown": "Rajshahi",
+    "district": "Mirpur 12",
+    "bloodGroup": "B+",
+    "image": "../photos/students/47.webp",
+    "facebook": "https://www.facebook.com/share/14cWbS99Q1F/"
+  },
+ {
+    "id": 48,
+    "name": "Maruf Khan",
+    "bio": "Mathematics is the gate and key to Science",
+    "homeTown": "Gazipur",
+    "district": "Gazipur",
+    "bloodGroup": "B+",
+    "image": "../photos/students/48.webp",
+    "facebook": "https://www.facebook.com/share/18GktJScfm/"
+  },
+ {
+    "id": 49,
+    "name": "Nusrat Namira Neha",
+    "bio": "Keep smiling, keep believing :'')",
+    "homeTown": "Faridpur",
+    "district": "Mohammadpur",
+    "bloodGroup": "O+",
+    "image": "../photos/students/49.webp",
+    "facebook": "https://www.facebook.com/share/14YaKXiqbmh/"
+  },
+ {
+    "id": 50,
+    "name": "Sumaya Akter",
+    "bio": "❝একতাবদ্ধ পরিবার, দল কিংবা সমাজ—সবচেয়ে বড় সাফল্যের ভিত্তি হয়।❞",
+    "homeTown": "Nilphamari",
+    "district": "Lakshmi Bazar",
+    "bloodGroup": "O+",
+    "image": "../photos/students/50.webp",
+    "facebook": "https://www.facebook.com/share/1b4NZ5mDjF/"
+  },
+ {
+    "id": 51,
+    "name": "Rafid Ahamed",
+    "bio": "Math-20",
+    "homeTown": "Netrokona",
+    "district": "Mirpur-10",
+    "bloodGroup": "O+",
+    "image": "../photos/students/51.webp",
+    "facebook": "https://www.facebook.com/share/1Fk7Esmhju/"
+  },
+ {
+    "id": 52,
+    "name": "Tanvir Niaz Fahim",
+    "bio": "Never be disappointed and always trust in Allah.",
+    "homeTown": "Rajshahi",
+    "district": "Rampura",
+    "bloodGroup": "B+",
+    "image": "../photos/students/52.webp",
+    "facebook": "https://www.facebook.com/share/1AxwfP1Fkn/"
+  },
+ {
+    "id": 53,
+    "name": "Nazia Noor",
+    "bio": "Be kind.",
+    "homeTown": "Rajshahi",
+    "district": "Lokkhibazar",
+    "bloodGroup": "A+",
+    "image": "../photos/students/53.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=61577276774871"
+  },
+ {
+    "id": 54,
+    "name": "MD. Nuralom",
+    "bio": "Be attentive,,,,,,,",
+    "homeTown": "Pabna",
+    "district": "Mohammedpur",
+    "bloodGroup": "O+",
+    "image": "../photos/students/54.webp",
+    "facebook": "https://www.facebook.com/share/1HWWs8U1PX/"
+  },
+ {
+    "id": 55,
+    "name": "Tashfiqul Hoque Mahir",
+    "bio": "",
+    "homeTown": "Narsinghdi",
+    "district": "Banasree",
+    "bloodGroup": "O+",
+    "image": "../photos/students/55.webp",
+    "facebook": "https://www.facebook.com/share/189VpKcdaj/"
+  },
+ {
+    "id": 56,
+    "name": "Kanta Rani Paul",
+    "bio": "Great things never come from comfort zones",
+    "homeTown": "Bogura",
+    "district": "Kaltabajar",
+    "bloodGroup": "A+",
+    "image": "../photos/students/56.webp",
+    "facebook": "https://www.facebook.com/share/1BABAhcFRU/"
+  },
+ {
+    "id": 57,
+    "name": "MD ROHAN",
+    "bio": "When life gets boring, do something wild",
+    "homeTown": "Narayanganj",
+    "district": "Narayanganj",
+    "bloodGroup": "O+",
+    "image": "../photos/students/57.webp",
+    "facebook": "https://www.facebook.com/share/1AvWX9nhrW/"
+  },
+ {
+    "id": 58,
+    "name": "Md. Remon Sony",
+    "bio": "",
+    "homeTown": "Chapainawabganj",
+    "district": "Lokkhi Bazar",
+    "bloodGroup": "B+",
+    "image": "../photos/students/58.webp",
+    "facebook": "https://www.facebook.com/share/18LpmKo8id/"
+  },
+ {
+    "id": 59,
+    "name": "MD Nayon Islam",
+    "bio": "Welcome to Our Dept",
+    "homeTown": "Sirajganj",
+    "district": "Mirpur 1",
+    "bloodGroup": "B+",
+    "image": "../photos/students/59.webp",
+    "facebook": "https://www.facebook.com/share/1DkCZFwYqp/"
   }
 ]

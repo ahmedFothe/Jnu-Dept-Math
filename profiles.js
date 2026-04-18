@@ -41,10 +41,13 @@ function renderPage() {
     const card = `
       <div class="card">
         <img src="${student.image}" />
-        <h3>${student.name}</h3>
-        <p>${student.bio}</p>
-        <p>${student.homeTown}, ${student.district}</p>
-        <p>Blood: ${student.bloodGroup}</p>
+          <h3>${student.name}</h3>
+          <p style="color:orange; font-style: italic; font-family: cursive;margin: 0.5rem auto;">${student.bio}</p>
+        <div class="card_info">
+          <p>Location: ${student.district}</p>
+          <p>District: ${student.homeTown}</p>
+          <p>Blood Group: ${student.bloodGroup}</p>
+        </div>
         <button class="add-btn" onclick="openProfile('${student.facebook}')">
           Add Friend
         </button>
