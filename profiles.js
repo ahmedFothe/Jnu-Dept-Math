@@ -42,7 +42,7 @@ function renderPage() {
       <div class="card">
         <img src="${student.image}" />
           <h3>${student.name}</h3>
-          <p style="color:orange; font-style: italic; font-family: cursive;margin: 0.5rem auto;">${student.bio}</p>
+          <p style="color:#C7CED8; font-style: italic; font-family: cursive;margin: 0.5rem auto;">${student.bio}</p>
         <div class="card_info">
           <p>Location: ${student.district}</p>
           <p>District: ${student.homeTown}</p>

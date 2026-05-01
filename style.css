@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background: #121212;
+  background: #050A18;
   color: white;
   padding-top: 70px; /* 🔥 fixed navbar offset */
   overflow-x: hidden;
@@ -34,7 +34,7 @@ body {
 }
 
 .logo {
-  color: orange;
+  color: #8AB4F8;
   font-size: 1.5rem;
   font-weight: 600;
 }
@@ -59,14 +59,14 @@ body {
   position: absolute;
   width: 0%;
   height: 2px;
-  background: orange;
+  background: #A1A7B0;
   left: 0;
   bottom: -5px;
   transition: 0.3s;
 }
 
 .nav-links a:hover {
-  color: orange;
+  color: #A1A7B0;
 }
 
 .nav-links a:hover::after {
@@ -153,9 +153,9 @@ body {
 /* Heading */
 .batch-name {
   font-size: 3rem;
-  color: orange;
+  color: #8AB4F8;
   font-weight: 700;
-  text-shadow: 0 0 15px rgba(255,165,0,0.6);
+  text-shadow: 0 0 15px rgba(0, 115, 255, 0.6);
 }
 
 /* Animated Text */
@@ -193,7 +193,7 @@ body {
 }
 
 .dot.active {
-  background: orange;
+  background: #8AB4F8;
 }
 .dot:hover {
   background: white;
@@ -226,7 +226,7 @@ body {
 }
 
 .tutorial-text .t-title {
-  color: orange;
+  color: #8AB4F8;
   font-size: 2.2rem;
   margin-bottom: 15px;
 
@@ -292,7 +292,7 @@ body {
 }
 
 .stats-header h2 {
-  color: orange;
+  color: #8AB4F8;
   font-size: 2.2rem;
   margin-bottom: 8px;
 
@@ -336,7 +336,7 @@ body {
   border-radius: 16px;
   padding: 35px 20px;
   text-align: center;
-  box-shadow: 0 10px 25px rgba(228, 179, 0, 0.377);
+  box-shadow: 0 10px 25px rgba(150, 150, 255, 0.377);
   transition: 0.3s;
   cursor: pointer;
 }
@@ -348,7 +348,7 @@ body {
 /* NUMBER */
 .stat-number {
   font-size: 2.5rem;
-  color: orange;
+  color: #8AB4F8;
   font-weight: bold;
   margin-bottom: 8px;
 }
@@ -362,7 +362,7 @@ body {
 
 /* Footer Section */
 .footer {
-  background: orange; /* MAIN CHANGE */
+  background: #8AB4F8; /* MAIN CHANGE */
   color: #1a1a1a;
   padding: 60px 20px 20px;
 }
@@ -451,10 +451,10 @@ body {
 .studentLoaderDots span {
   width: 10px;
   height: 10px;
-  background: orange;
+  background: #8AB4F8;
   border-radius: 50%;
   animation: studentLoaderBounce 0.6s infinite alternate;
-  box-shadow: 0 0 10px orange;
+  box-shadow: 0 0 10px #8AB4F8;
 }
 
 .studentLoaderDots span:nth-child(2) {
@@ -479,7 +479,7 @@ body {
 
 /* TEXT */
 .studentLoaderText {
-  color: orange;
+  color: #8AB4F8;
   font-size: 1.3rem;
   font-style: italic;
   letter-spacing: 1px;

@@ -108,15 +108,15 @@ body {
 }
 
 .pagination .active {
-  background: orange;
+  background: #8AB4F8;
   font-weight: bold;
-  box-shadow: 0 0 10px orange;
+  box-shadow: 0 0 10px #8AB4F8;
 }
 .notFound{
   margin: 1rem auto;
   width: 55vw;
   text-align: right;
-  color: orange;
+  color: #A1A7B0;
   font-size: 2rem;
   
 }
