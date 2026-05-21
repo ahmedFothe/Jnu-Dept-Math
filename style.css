@@ -5,11 +5,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
-/* html {
+html {
   scroll-behavior: smooth;
-  scroll-padding-top: 80px;  
+  scroll-padding-top: 80px; /* navbar offset fix */
 }
-*/
 
 body {
   background: #050A18;

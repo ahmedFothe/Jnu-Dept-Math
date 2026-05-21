@@ -11,9 +11,9 @@ function updatePerPage() {
   const width = window.innerWidth;
 
   if (width <= 600) {
-    perPage = 4; // mobile
+    perPage = 4;
   } else {
-    perPage = 6; // tablet + desktop
+    perPage = 6;
   }
 }
 
@@ -27,10 +27,16 @@ fetch("students.json")
   });
 
 /* Render Page */
-function renderPage() {
+function renderPage(scrollTop = false) {
   updatePerPage();
 
-  window.scrollTo({ top: 0, behavior: "smooth" });
+  // only when needed
+  if (scrollTop) {
+    window.scrollTo({
+      top: 0,
+      behavior: "smooth"
+    });
+  }
 
   container.innerHTML = "";
 
@@ -53,6 +59,7 @@ function renderPage() {
         </button>
       </div>
     `;
+
     container.innerHTML += card;
   });
 
@@ -74,13 +81,16 @@ function renderPagination() {
 
   for (let i = start; i <= end; i++) {
     const btn = document.createElement("button");
+
     btn.innerText = i;
 
-    if (i === currentPage) btn.classList.add("active");
+    if (i === currentPage) {
+      btn.classList.add("active");
+    }
 
     btn.onclick = () => {
       currentPage = i;
-      renderPage();
+      renderPage(true);
     };
 
     pageNumbers.appendChild(btn);
@@ -89,20 +99,21 @@ function renderPagination() {
   document.getElementById("prevBtn").onclick = () => {
     if (currentPage > 1) {
       currentPage--;
-      renderPage();
+      renderPage(true);
     }
   };
 
   document.getElementById("nextBtn").onclick = () => {
     if (currentPage < totalPages) {
       currentPage++;
-      renderPage();
+      renderPage(true);
     }
   };
 }
 
 /* Search */
 document.getElementById("searchInput").addEventListener("input", function () {
+
   const value = this.value.toLowerCase();
 
   filteredStudents = students.filter(s =>
@@ -112,10 +123,14 @@ document.getElementById("searchInput").addEventListener("input", function () {
   currentPage = 1;
 
   if (filteredStudents.length === 0) {
+
     container.innerHTML = "<h2 class='notFound'>Not Found</h2>";
     pageNumbers.innerHTML = "";
+
   } else {
-    renderPage();
+
+    renderPage(true);
+
   }
 });
 
@@ -125,6 +140,14 @@ function openProfile(link) {
 }
 
 /* Resize auto update */
+let resizeTimeout;
+
 window.addEventListener("resize", () => {
-  renderPage();
+
+  clearTimeout(resizeTimeout);
+
+  resizeTimeout = setTimeout(() => {
+    renderPage(false);
+  }, 200);
+
 });
